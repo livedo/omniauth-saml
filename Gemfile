@@ -12,4 +12,6 @@ end
 
 gem 'appraisal'
 
+gem 'ruby-saml', github: 'livedo/ruby-saml'
+
 gemspec
